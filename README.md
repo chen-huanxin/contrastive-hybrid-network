@@ -1,4 +1,4 @@
-# Deep Contrastive Learning + Focal Loss
+# Contrastive Hybrid Network
 
 ## Usage
 ``` shell
