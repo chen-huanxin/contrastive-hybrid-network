@@ -1,0 +1,6 @@
+.vscode/**
+logs/**
+checkpoint/**
+**/__pycache__
+
+*.jpg
